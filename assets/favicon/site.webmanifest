@@ -1,6 +1,6 @@
 {
     "name": "List of Cognitive Biases",
-    "short_name": "List of Cognitive Biases",
+    "short_name": "52 Biases",
     "icons": [
         {
             "src": "android-chrome-36x36.png",
@@ -43,7 +43,23 @@
             "type": "image/png"
         }
     ],
+    "screenshots": [
+        {
+            "src": "../screenshots/desktop.png",
+            "sizes": "1280x800",
+            "type": "image/png"
+        },
+        {
+            "src": "../screenshots/mobile.png",
+            "sizes": "750x1334",
+            "type": "image/png"
+        }
+    ],
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
-    "display": "standalone"
+    "display": "standalone",
+    "start_url": "https://uxinlux.github.io/cognitive-biases/",
+    "url": "https://uxinlux.github.io/cognitive-biases/",
+    "lang": "en",
+    "description": "A list of 52 selected cognitive biases to help you navigate through the most common ones."
 }
